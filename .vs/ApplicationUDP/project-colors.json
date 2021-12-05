@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be344291-af28-4abe-831a-2a01c2d69a39": {
+      "ProjectGuid": "be344291-af28-4abe-831a-2a01c2d69a39",
+      "DisplayName": "ServerUDP",
+      "ColorIndex": 0
+    },
+    "53b1f1c3-b1a7-4c05-a548-531e6908a35d": {
+      "ProjectGuid": "53b1f1c3-b1a7-4c05-a548-531e6908a35d",
+      "DisplayName": "ClientUDP",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

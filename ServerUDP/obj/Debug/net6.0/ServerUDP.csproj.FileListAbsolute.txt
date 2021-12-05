@@ -1,0 +1,15 @@
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\bin\Debug\net6.0\ServerUDP.exe
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\bin\Debug\net6.0\ServerUDP.deps.json
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\bin\Debug\net6.0\ServerUDP.runtimeconfig.json
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\bin\Debug\net6.0\ServerUDP.dll
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\bin\Debug\net6.0\ref\ServerUDP.dll
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\bin\Debug\net6.0\ServerUDP.pdb
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\obj\Debug\net6.0\ServerUDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\obj\Debug\net6.0\ServerUDP.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\obj\Debug\net6.0\ServerUDP.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\obj\Debug\net6.0\ServerUDP.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\obj\Debug\net6.0\ServerUDP.dll
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\obj\Debug\net6.0\ref\ServerUDP.dll
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\obj\Debug\net6.0\ServerUDP.pdb
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\obj\Debug\net6.0\ServerUDP.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\ApplicationUDP\ServerUDP\obj\Debug\net6.0\ServerUDP.csproj.AssemblyReference.cache
